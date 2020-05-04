@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.defaultLanguage": "python",
+		"python.pythonPath": ".venv\\Scripts\\python.exe",
+		"terminal.integrated.env.windows": {
+			"PSExecutionPolicyPreference": "RemoteSigned"
+		},
+	},
+}
